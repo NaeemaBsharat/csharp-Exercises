@@ -30,7 +30,7 @@ public class test1 : MonoBehaviour
                 
             }
 
-             // Exercise 2: Funny Sentence Generator:
+            // Exercise 2: Funny Sentence Generator:
 
             string[] words = { "Cat", "Dog", "Car", "Pizza", "Hat", "Fish", "Tree", "Monkey", "Ball", "Bird" };
             int counter = 0;
