@@ -17,7 +17,6 @@ public class Test2 : MonoBehaviour
         while (counter < 7)
         {
             int ward = Random.Range(0,8);
-           // funny_sentence + = words[ward] + " ";
             counter++;
         }
 
